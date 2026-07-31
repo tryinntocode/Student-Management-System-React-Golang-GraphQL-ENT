@@ -12,7 +12,7 @@ import (
 var Client *ent.Client
 
 func ConnectDB() {
-	dsn := "host=localhost user=postgres password=1234 dbname=finaldb port=5432 sslmode=disable"
+	dsn := "host=localhost user= password= dbname= port= sslmode=disable"
 
 	client, err := ent.Open("postgres", dsn)
 	if err != nil {
