@@ -109,7 +109,7 @@ cd "Final Project"
 Create a PostgreSQL database matching the connection string in `backend/config/database.go`:
 
 ```
-dbname=finaldb  user=postgres  password=1234  port=5432
+dbname=  user=  password=  port=
 ```
 
 > 💡 For production or sharing this repo publicly, move these credentials into environment variables instead of hardcoding them.
