@@ -1,0 +1,5 @@
+/* Update User Specific Card Styles */
+.editing-card {
+  border-color: var(--success-color);
+  box-shadow: 0 0 0 2px rgba(22, 163, 74, 0.1), var(--shadow-md);
+}
