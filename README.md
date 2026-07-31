@@ -112,7 +112,3 @@ Add a screenshot or GIF of the dashboard here — it makes a huge difference on 
 🧑‍💻 Author
 
 Built by Mayur as a hands-on project exploring Go, GraphQL (gqlgen), Ent ORM, and React.
-
-📄 License
-
-This project is open source and available under the MIT License.
