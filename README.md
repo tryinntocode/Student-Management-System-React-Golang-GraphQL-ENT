@@ -17,6 +17,8 @@ This project is a complete **CRUD application** for managing student records —
 
 It was built as a hands-on exploration of a modern Go backend stack: **Ent** for type-safe schema-driven database access, **gqlgen** for a code-first GraphQL API, and **PostgreSQL** for persistence, paired with a lightweight React + Vite client for the UI.
 
+<img width="1919" height="1028" alt="Image" src="https://github.com/user-attachments/assets/526fc423-28ba-4169-803a-398ae368d5bf" />
+
 ## 🖥️ Features
 
 - **Create** new student records with full validation
